@@ -22,5 +22,5 @@ Here are some ideas to get you started:
     ✨ I love to create a new idea and new project.</br>
   </tr>
 </table>
-[GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=minionstar&theme=dracula&hide_border=true)
+
 
