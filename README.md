@@ -17,10 +17,8 @@ Here are some ideas to get you started:
 # replace contents according to you.
 <table>
   <tr>
-    <td valign="center">
-      🌱 I am working as a full stack and blockchain engineer.</br>
-      🎯 My Goal is to Contribute to as many **great project** as possible.</br>
-      ✨ I love to create a new idea and new project.</br>
-    <td >
+    🌱 I am working as a full stack and blockchain engineer.</br>
+    🎯 My Goal is to Contribute to as many **great project** as possible.</br>
+    ✨ I love to create a new idea and new project.</br>
   </tr>
 </table>
