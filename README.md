@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# replace contents according to you.
 <table>
   <tr>
     🌱 I am working as a full stack and blockchain engineer.</br>
